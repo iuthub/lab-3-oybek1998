@@ -1,0 +1,61 @@
+* *:hover {
+    background-color: yellow;
+}
+
+body {
+    background-image: url(images/background.gif);
+}
+
+#main_box {
+  border: 10px solid white;
+  background-color: white;
+  margin: 0 10%;
+}
+
+.box1 {
+      background-color: #A8F0F0;
+      text-align: right;
+}
+
+.box2 {
+      min-height: 150px;
+      border: 4px solid #C2E9E9;
+      background-color: #E8FBFB;
+      padding: 5px;
+      margin-top:10px;
+}
+
+.box3 {
+      min-height: 210px;
+      border: 4px solid #C2E9E9;
+      background-color: #E8FBFB;
+      padding: 5px;
+      margin-top:10px;
+}
+
+.extra_box {
+    border:5px solid blue;
+    background-color: darkgray;
+    float:left;
+    margin: 10px;
+    padding: 5px;
+}
+
+.bigbox {
+    overflow: hidden;
+}
+
+img {
+    float:right;
+}
+
+.header2 {
+      font-size: 14pt;
+}
+
+span {
+    border-bottom: 2px dashed blue;
+
+}
+
+
